@@ -10,13 +10,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...
+<p align="left">✨ Creating bugs since ...
+<br>📚 I'm currently learning ...
 ![Golang](https://cdn.simpleicons.org/go/00ADD8)
 ![Linux](https://cdn.simpleicons.org/linux/000000)
 ![Django](https://cdn.simpleicons.org/django/092E20)
 ![Firebase](https://cdn.simpleicons.org/firebase/FFCA28)
 
-  <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
