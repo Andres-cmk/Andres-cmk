@@ -12,9 +12,10 @@
 
 <p align="left">
   ✨ Creating innovative backend solutions using emerging technologies like decentralized web<br>
-  🎯 Goals: Improve my web development skills and contribute to open-source projects<br>
+  🎯 Goals: Enhance my personal and professional development. Improve my knowledge in the field of technology.<br>
   🎲 Fun fact: Besides coding, I'm passionate about sports, especially skating<br>
 </p>
+
 
 ###
 
