@@ -69,8 +69,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/32552f9a-fa89-49a7-9605-ee1c0901deb7" />
-" height="40" alt="firebase logo"  />
+  <img src= "https://github.com/user-attachments/assets/fabe67fa-c7f4-4aef-8d37-6f9a8de38b00" height="40" alt = "logo de docker"/>
+"  />
 </div>
 
 ###
