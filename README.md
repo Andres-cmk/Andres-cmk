@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
+  <img src = "https://github.com/user-attachments/assets/ccc2dd5b-d992-4997-8902-ce7214ce8e71" height = "40" alt = "vsc logo"/>
+ />
 </div>
 
 ###
