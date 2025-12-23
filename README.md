@@ -89,5 +89,5 @@
 ###
 
 ###
-![Lenguajes más usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andres-cmk&layout=compact&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andres-cmk&theme=dracula)
 ###
