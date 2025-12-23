@@ -89,5 +89,5 @@
 ###
 
 ###
-![Lenguajes más usados](https://github-readme-stats-alpha-one-19.vercel.app/api/top-langs/?username=Andres-cmk&layout=compact&theme=dracula&hide=vehicle_collision_detection)
+![Lenguajes más usados](https://github-readme-stats-alpha-one-19.vercel.app/api/top-langs/?username=Andres-cmk&layout=compact&theme=dracula&exclude_repo=vehicle_collision_detection)
 ###
