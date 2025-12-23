@@ -58,7 +58,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src = "[https://techicons.dev/icons/djangorest.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="40" />
+          
 
 </div>
 
