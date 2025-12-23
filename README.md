@@ -87,7 +87,7 @@
 </div>
 
 ###
-
+<h2 align="left">Lenguajes mas usuados</h2>
 ###
-![Lenguajes más usados](https://github-readme-stats-alpha-one-19.vercel.app/api/top-langs/?username=Andres-cmk&layout=compact&theme=dracula&exclude_repo=vehicle_collision_detection)
+![](https://github-readme-stats-alpha-one-19.vercel.app/api/top-langs/?username=Andres-cmk&layout=compact&theme=dracula&exclude_repo=vehicle_collision_detection)
 ###
