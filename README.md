@@ -89,5 +89,5 @@
 ###
 
 ###
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andres-cmk&theme=dracula)
+![Lenguajes más usados](https://github-readme-stats-alpha-one-19.vercel.app/api/top-langs/?username=Andres-cmk&layout=compact&theme=dracula)
 ###
