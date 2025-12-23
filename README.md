@@ -88,7 +88,7 @@
 
 ###
 
-<h2 align="left">Lenguajes mas usuados</h2>
+<h2 align="left"></h2>
 
 ###
 
