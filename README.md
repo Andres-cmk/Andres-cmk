@@ -83,7 +83,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src= "https://github.com/user-attachments/assets/fabe67fa-c7f4-4aef-8d37-6f9a8de38b00" height="40" alt = "logo de docker"/>
+  <img src= "https://skillicons.dev/icons?i=docker" height="40" alt = "logo de docker"/>
 </div>
 
 ###
