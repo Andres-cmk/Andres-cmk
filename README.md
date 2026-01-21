@@ -11,9 +11,11 @@
 ###
 
 <p align="left">
-  ✨ Creating innovative backend solutions using emerging technologies like decentralized web<br>
-  🎯 Goals: Enhance my personal and professional development. Improve my knowledge in the field of technology.<br>
-  🎲 Fun fact: Besides coding, I'm passionate about sports, especially skating<br>
+✨ Constantly exploring technology, learning the fundamentals from the ground up — from algorithms and backend development to modern web development.  
+🚀 Currently focused on web development, while continuously expanding my knowledge in **Artificial Intelligence** and **Blockchain**, which are my main long-term interests.  
+
+🎯 Goals: Enhance my personal and professional development. Improve my knowledge in the field of technology.  
+🎲 Fun fact: Besides coding, I'm passionate about sports, especially skating.
 </p>
 
 
