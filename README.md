@@ -89,17 +89,6 @@ I'm currently looking for an **internship** where I can keep learning and contri
 
 ---
 
-## 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Fraud Detection](#) | Detects fraudulent mobile money transactions on highly imbalanced data (F1 85.9%) | scikit-learn, pandas |
-| [Scream Detection with CNN](#) | Classifies audio using Mel spectrograms and a 4-block CNN | PyTorch, torchaudio |
-| [Vehicle Collision Detection](#) | Detects traffic accidents in images and video | YOLOv11, Python |
-| [UNAL Academic Chatbot](#) | Routes requests across AI providers and answers with RAG | FastAPI, Next.js, Docker |
-
----
-
 ## 📚 Currently learning
 
 Deeper deep learning (RNNs, multi-input/output architectures), MLOps and English for technical communication.
