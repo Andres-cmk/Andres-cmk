@@ -97,7 +97,7 @@ Deeper deep learning (RNNs, multi-input/output architectures), MLOps and English
 
 ## 📫 Contact
 
-- LinkedIn: [tu-usuario](https://www.linkedin.com/in/tu-usuario)
+- LinkedIn: [Andres Felipe Ramirez Montaña]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/andres-felipe-ramirez-m/))
 - Email: ramirezmontanaandresfelipe@gmail.com
 
 🛹 Fun fact: outside of code, I love sports, especially skating.
